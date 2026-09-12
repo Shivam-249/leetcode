@@ -3,7 +3,7 @@ public:
     string sortSentence(string s) {
         vector<string>ans(10);
         int count=0,index=0;
-        string temp="";
+        string temp;
         while(index<s.size())
         {
             if(s[index]==' ')
