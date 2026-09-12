@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Shivam-249/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-249/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
+| [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-249/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Shivam-249/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shivam-249/leetcode/tree/master/0058-length-of-last-word) |
+| [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/Shivam-249/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-249/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Trie
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shivam-249/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-249/leetcode/tree/master/0142-linked-list-cycle-ii) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
