@@ -4,9 +4,10 @@ public:
         vector<string>ans(10);
         int count=0,index=0;
         string temp="";
-        while(index<s.size()){
-            
-            if(s[index]==' '){
+        while(index<s.size())
+        {
+            if(s[index]==' ')
+            {
                 int pos=temp[temp.size()-1]-'0';
                 temp.pop_back();
                 ans[pos]=temp;
@@ -21,10 +22,10 @@ public:
         }
 
         int pos=temp[temp.size()-1]-'0';
-            temp.pop_back();
-            ans[pos]=temp;
-            temp.clear();
-            count++;
+        temp.pop_back();
+        ans[pos]=temp;
+        temp.clear();
+        count++;
         
         for(int i=1;i<=count;i++)
         {
