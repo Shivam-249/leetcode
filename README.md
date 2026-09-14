@@ -123,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shivam-249/leetcode/tree/master/0509-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Shivam-249/leetcode/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
