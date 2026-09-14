@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-249/leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Shivam-249/leetcode/tree/master/0013-roman-to-integer) |
 | [0138-copy-list-with-random-pointer](https://github.com/Shivam-249/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Shivam-249/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-249/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam-249/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Shivam-249/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Shivam-249/leetcode/tree/master/0058-length-of-last-word) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Shivam-249/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Shivam-249/leetcode/tree/master/0048-rotate-image) |
 | [0415-add-strings](https://github.com/Shivam-249/leetcode/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/Shivam-249/leetcode/tree/master/0509-fibonacci-number) |
