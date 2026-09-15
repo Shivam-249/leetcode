@@ -1,24 +1,24 @@
 class Solution {
 public:
     
-    int solveRec(vector<int>&coins,int idx,int sum,vector<vector<int>>&dp)
+    int solveMem(vector<int>&coins,int n,int sum,vector<vector<int>>&dp)
     {
         if(sum==0) return 1;
         if(sum<0) return 0;
-        if(idx<0)  return 0;
+        if(n==0)  return 0;
 
-        if(dp[idx][sum]!=-1)  return dp[idx][sum];
+        if(dp[n][sum]!=-1)  return dp[n][sum];
 
-        int exclude=solveRec(coins,idx-1,sum,dp);
-        int include=solveRec(coins,idx,sum-coins[idx],dp);
+        int exclude=solveMem(coins,n-1,sum,dp);
+        int include=solveMem(coins,n,sum-coins[n-1],dp);
 
-        dp[idx][sum]=exclude+include;
+        dp[n][sum]=exclude+include;
 
-        return dp[idx][sum];
+        return dp[n][sum];
     }        
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
         vector<vector<int>>dp(n+1,vector<int>(amount+1,-1));
-        return solveRec(coins,n-1,amount,dp);
+        return solveMem(coins,n,amount,dp);
     }
 };    
