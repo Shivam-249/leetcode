@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int KMP_MATCH(string b,string a)
+    bool KMP_MATCH(string b,string a)
     {
         vector<int>lps(a.size(),0);
         int pre=0,suf=1;
