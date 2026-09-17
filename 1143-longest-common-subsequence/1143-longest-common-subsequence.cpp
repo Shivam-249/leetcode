@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int solveMem(string &s1, string &s2, int m, int n, vector<vector<int>>& dp)  
+    int solveMem(string s1, string s2, int m, int n, vector<vector<int>>& dp)  
     {
         if(m == 0 || n == 0)  {
             return 0; 
@@ -19,7 +19,7 @@ public:
     int solveTab(string s1, string s2)  
     { 
         int m = s1.length(); 
-        int n =  s2.length();
+        int n = s2.length();
         vector<vector<int>> dp(m+1, vector<int>(n+1, 0)); 
         for(int i = 1; i <= m; i++)  
         { 
@@ -35,9 +35,10 @@ public:
         return dp[m][n]; 
     } 
     int longestCommonSubsequence(string text1, string text2) {
-        int m = text1.length(); 
-        int n = text2.length(); 
-        vector<vector<int>> dp(m+1, vector<int>(n+1, -1)); 
-        return solveMem(text1, text2, m, n, dp); 
+        //int m = text1.length(); 
+        //int n = text2.length(); 
+        //vector<vector<int>> dp(m+1, vector<int>(n+1, -1)); 
+        //return solveMem(text1, text2, m, n, dp); 
+        return solveTab(text1,text2);
     }
 };
