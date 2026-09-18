@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Shivam-249/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivam-249/leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shivam-249/leetcode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Shivam-249/leetcode/tree/master/0055-jump-game) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-249/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Shivam-249/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Shivam-249/leetcode/tree/master/0072-edit-distance) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-249/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 ## Bubble Sort
