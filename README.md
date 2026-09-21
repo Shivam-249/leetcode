@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Shivam-249/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Shivam-249/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Shivam-249/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivam-249/leetcode/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shivam-249/leetcode/tree/master/0048-rotate-image) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shivam-249/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivam-249/leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
 | [1859-sorting-the-sentence](https://github.com/Shivam-249/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/2785-sort-vowels-in-a-string) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shivam-249/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shivam-249/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Shivam-249/leetcode/tree/master/0016-3sum-closest) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0125-valid-palindrome) |
