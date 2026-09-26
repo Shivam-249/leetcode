@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam-249/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam-249/leetcode/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-249/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-249/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/Shivam-249/leetcode/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/Shivam-249/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Shivam-249/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-249/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1859-sorting-the-sentence](https://github.com/Shivam-249/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/2785-sort-vowels-in-a-string) |
