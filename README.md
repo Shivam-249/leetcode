@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Shivam-249/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-249/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shivam-249/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Shivam-249/leetcode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Shivam-249/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Shivam-249/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Shivam-249/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Shivam-249/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-249/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Shivam-249/leetcode/tree/master/0242-valid-anagram) |
 | [1859-sorting-the-sentence](https://github.com/Shivam-249/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
