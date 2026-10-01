@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-249/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Shivam-249/leetcode/tree/master/0283-move-zeroes) |
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-249/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-249/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shivam-249/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam-249/leetcode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-249/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1859-sorting-the-sentence](https://github.com/Shivam-249/leetcode/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/2785-sort-vowels-in-a-string) |
 ## Counting
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-249/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
