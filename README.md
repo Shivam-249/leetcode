@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam-249/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Shivam-249/leetcode/tree/master/0567-permutation-in-string) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Shivam-249/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Shivam-249/leetcode/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Shivam-249/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shivam-249/leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Shivam-249/leetcode/tree/master/0686-repeated-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/Shivam-249/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shivam-249/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-249/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Shivam-249/leetcode/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/Shivam-249/leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Shivam-249/leetcode/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-249/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Shivam-249/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shivam-249/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Shivam-249/leetcode/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
