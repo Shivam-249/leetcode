@@ -6,12 +6,10 @@ public:
 
         vector<int> a(26, 0);
         vector<int> b(26, 0);
-
         for(char c : s1)
             a[c - 'a']++;
 
         int k = s1.size();
-
         for(int i = 0; i < s2.size(); i++) {
             b[s2[i] - 'a']++;
 
@@ -21,7 +19,6 @@ public:
             if(a == b)
                 return true;
         }
-
         return false;
     }
 };
