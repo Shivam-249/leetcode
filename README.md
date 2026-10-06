@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Shivam-249/leetcode/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Shivam-249/leetcode/tree/master/0686-repeated-string-match) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Shivam-249/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Shivam-249/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-249/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-249/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
