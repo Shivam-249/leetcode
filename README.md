@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-249/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -340,4 +341,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
