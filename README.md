@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Shivam-249/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivam-249/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Tree
 |  |
 | ------- |
