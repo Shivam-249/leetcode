@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shivam-249/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Shivam-249/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam-249/leetcode/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/Shivam-249/leetcode/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/Shivam-249/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Shivam-249/leetcode/tree/master/0647-palindromic-substrings) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Shivam-249/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam-249/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/Shivam-249/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivam-249/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
