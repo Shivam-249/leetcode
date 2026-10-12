@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Shivam-249/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Shivam-249/leetcode/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam-249/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/Shivam-249/leetcode/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam-249/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0461-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
