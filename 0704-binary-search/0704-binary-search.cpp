@@ -13,7 +13,6 @@ public:
         return binarysearch(arr,start,mid-1,X);
     }
     int search(vector<int>& nums, int target) {
-              int n=nums.size()-1;
-               return binarysearch(nums,0,n,target);
+            return binarysearch(nums,0,nums.size()-1,target);
     }
 };
