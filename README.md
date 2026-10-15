@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Shivam-249/leetcode/tree/master/0415-add-strings) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Shivam-249/leetcode/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-249/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-249/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Matrix
 |  |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Shivam-249/leetcode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-249/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/Shivam-249/leetcode/tree/master/0868-binary-gap) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Shivam-249/leetcode/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Tree
@@ -459,4 +461,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivam-249/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shivam-249/leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shivam-249/leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Shivam-249/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
