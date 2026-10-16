@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-249/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
+| [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivam-249/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
 ## Linked List
 |  |
 | ------- |
@@ -475,4 +477,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shivam-249/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
