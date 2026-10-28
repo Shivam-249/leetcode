@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Shivam-249/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-249/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shivam-249/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0856-score-of-parentheses](https://github.com/Shivam-249/leetcode/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-249/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-249/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Heap (Priority Queue)
 |  |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Shivam-249/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [0232-implement-queue-using-stacks](https://github.com/Shivam-249/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/Shivam-249/leetcode/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
