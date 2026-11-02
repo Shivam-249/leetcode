@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam-249/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shivam-249/leetcode/tree/master/0704-binary-search) |
+| [0994-rotting-oranges](https://github.com/Shivam-249/leetcode/tree/master/0994-rotting-oranges) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shivam-249/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shivam-249/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Shivam-249/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Shivam-249/leetcode/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/Shivam-249/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Shivam-249/leetcode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Shivam-249/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Shivam-249/leetcode/tree/master/0200-number-of-islands) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Shivam-249/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0994-rotting-oranges](https://github.com/Shivam-249/leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Lifting
 |  |
 | ------- |
