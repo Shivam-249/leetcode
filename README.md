@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Shivam-249/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shivam-249/leetcode/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Shivam-249/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Shivam-249/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Shivam-249/leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Shivam-249/leetcode/tree/master/0048-rotate-image) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Shivam-249/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Shivam-249/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/Shivam-249/leetcode/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/Shivam-249/leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Shivam-249/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Shivam-249/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shivam-249/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
