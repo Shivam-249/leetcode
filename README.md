@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shivam-249/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Shivam-249/leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Shivam-249/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Shivam-249/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0477-total-hamming-distance](https://github.com/Shivam-249/leetcode/tree/master/0477-total-hamming-distance) |
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam-249/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam-249/leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Shivam-249/leetcode/tree/master/0213-house-robber-ii) |
 | [0338-counting-bits](https://github.com/Shivam-249/leetcode/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/Shivam-249/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Shivam-249/leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Shivam-249/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Shivam-249/leetcode/tree/master/0647-palindromic-substrings) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Shivam-249/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Shivam-249/leetcode/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Shivam-249/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Shivam-249/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Shivam-249/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Shivam-249/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Bubble Sort
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Shivam-249/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Shivam-249/leetcode/tree/master/0035-search-insert-position) |
 | [0222-count-complete-tree-nodes](https://github.com/Shivam-249/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/Shivam-249/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Shivam-249/leetcode/tree/master/0704-binary-search) |
 ## Queue
 |  |
@@ -403,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Shivam-249/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Shivam-249/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Shivam-249/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Backtracking
